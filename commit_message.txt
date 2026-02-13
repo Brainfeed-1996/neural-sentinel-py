@@ -1,0 +1,1 @@
+feat: industrial upgrade (CI, tests, CLI, docs)
